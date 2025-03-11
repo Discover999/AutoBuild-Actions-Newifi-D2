@@ -17,7 +17,7 @@ Sync_List=(
 	Scripts/Sync.sh
 	Scripts/AutoBuild_Function.sh
 	LICENSE
-	# README.md
+	README.md
 )
 
 set -e
